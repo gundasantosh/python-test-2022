@@ -1,3 +1,9 @@
 [submodule "python-test-2022"]
 	path = python-test-2022
 	url = https://github.com/gundasantosh/python-test-2022.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/gundasantosh/python-test-2022.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/gundasantosh/python-test-2022.git
