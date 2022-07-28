@@ -1,0 +1,3 @@
+[submodule "python-test-2022"]
+	path = python-test-2022
+	url = https://github.com/gundasantosh/python-test-2022.git
